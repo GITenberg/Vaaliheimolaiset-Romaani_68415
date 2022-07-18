@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47352'
     url: http://www.gutenberg.org/2009/agents/47352
     wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
     - https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68415#Vaaliheimolaiset-Romaani
 gutenberg_issued: '2022-06-27'
 identifiers:
   gutenberg: '68415'
